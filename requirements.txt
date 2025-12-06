@@ -1,0 +1,23 @@
+# FastAPI and Web Framework
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+
+# Database and ORM
+sqlmodel==0.0.16
+psycopg2-binary==2.9.9
+
+# Pydantic and Settings
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# Background Tasks
+celery==5.3.6
+redis==5.0.1
+
+# HTTP Client
+httpx==0.26.0
+
+# Document Processing
+pypdf==4.0.2
+mammoth==1.7.1
